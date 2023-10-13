@@ -7,9 +7,9 @@
 - 
 -<hi>Cyber Security Project<hi>
 <b>Cridential Harvesting Using Site Cloning<b>
-{Use Harvester}(https://github.com/Nju9una/Harvesting-using-site-cloning/blob/main/Cybersec%20Classwork/BMW-M5-Coilovers.jpg?raw=true)
+{Cridential Harvesting Using Site Cloning}(https://github.com/Nju9una/Harvesting-using-site-cloning/blob/main/Cybersec%20Classwork/BMW-M5-Coilovers.jpg?raw=true)
 
-{Use Harvester}(https://github.com/Nju9una/Harvesting-using-site-cloning)
+{The Harvester}(https://github.com/Nju9una/Harvesting-using-site-cloning)
 <!---
 Nju9una/Nju9una is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
