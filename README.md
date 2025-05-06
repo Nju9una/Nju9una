@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nju9una
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering and Data science
 - 💞️ I’m looking to collaborate on projects both front and back end 
 - 📫 How to reach me ...Email:mpatricknjuguna02@gmail.com
 <!---
